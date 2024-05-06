@@ -1,1 +1,7 @@
 # Unifi-Value-Frameworks-PDF-Lifting-Competition
+
+Companies increasingly recognize the strategic importance of integrating sustainability into their core operations, not just for social good but also due to the tangible business benefits. Sustainable businesses tend to be more efficient and cost-effective, using resources responsibly, minimizing waste, reducing energy costs, and maintaining higher employee engagement. Despite this, managing sustainability initiatives requires robust data collection, which is often challenging due to limited accessibility to relevant metrics from enterprise resource planning (ERP) systems.
+
+One valuable source of sustainability data is the integrated annual reports that companies publicly release, offering a comprehensive view of their performance and progress towards sustainability goals. However, extracting and analyzing this information from the unstructured, varied formats of these reports poses significant challenges.
+
+The Unifi Value Frameworks PDF Lifting Competition aims to tackle this issue by developing a solution that can efficiently parse annual reports in PDF format and extract essential pre-defined activity metrics. This would enable Unifi to obtain specific and standardized sustainability data from diverse companies, overcoming the complexities of inconsistent structures and presentation styles. The solution will empower Unifi to better evaluate and benchmark sustainability efforts across organizations, providing valuable insights to shareholders, investors, regulators, and the public.
